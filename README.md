@@ -4,9 +4,9 @@
     어제와 다른 한 단계 성장 했다는 사실을 즐겁게 생각하며 앞으로 나아가려 합니다.
 </p>
 
-<div align="center">
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinHyeokChoco&show_icons=true&theme=radical)
-</div>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinHyeokChoco&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
