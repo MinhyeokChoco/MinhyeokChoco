@@ -1,6 +1,6 @@
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phone001&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justcodig&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinHyeokChoco&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
