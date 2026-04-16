@@ -4,8 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinHyeokChoco&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-#  <p align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinhyeokChoco&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 😄 웹 개발에 있어서 많은 어려움과 수많은 오류를 접하면서, 두렵기도 하지만 마주한 벽을 넘으면 <br>
     어제와 다른 한 단계 성장 했다는 사실을 즐겁게 생각하며 앞으로 나아가려 합니다. 🔥
