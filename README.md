@@ -5,8 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinHyeokChoco&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-😄 웹 개발에 있어서 많은 어려움과 수많은 오류를 접하면서, 두렵기도 하지만 마주한 벽을 넘으면 <br>
-    어제와 다른 한 단계 성장 했다는 사실을 즐겁게 생각하며 앞으로 나아가려 합니다. 🔥
+웹 개발에 있어서 많은 어려움과 수많은 오류를 접하면서, 두렵기도 하지만 마주한 벽을 넘으면 <br>
+어제와 다른 한 단계 성장 했다는 사실을 즐겁게 생각하며 앞으로 나아가려 합니다.
 #
 <h3> Tech Stack 👀 </h3>
 <br>
